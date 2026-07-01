@@ -4,7 +4,7 @@
 // =========================================================
 
 // 1. 你的专属 UUID
-const userID = "93f6e6d0-9593-4104-8991-f28bb00d59a0";
+const userID = "f80d3ac0-4d45-493a-8b2d-cff5b6ee29da";
 
 // 2. 后台路径：域名 + UUID
 const ADMIN_PATH = `/${userID}`;
